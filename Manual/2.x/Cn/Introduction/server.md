@@ -49,7 +49,6 @@ php easyswoole stop
 > 注意，守护模式下才需要stop，不然control+c或者是终端断开就退出进程了
 
 ## 服务重启
-## 服务停止
 ```
 php easyswoole reload
 ```
